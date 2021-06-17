@@ -14,7 +14,7 @@ loginI = input("Please Enter your Password: ")
 login = 'admin'
 passwrd = 'password'
 
-# checks if username and password is valid
+# checks if username and password are valid
 if login.lower() != "admin":
     login = input("Login correct, Are you sure you would like to continue(y/n)? ")
 else: 
