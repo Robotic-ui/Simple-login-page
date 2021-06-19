@@ -4,4 +4,4 @@ The default username and password is:
 
 USERNAME: admin 
 PASSWORD: password
-all lower case!
+(all lower case)
